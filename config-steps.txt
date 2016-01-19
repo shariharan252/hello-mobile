@@ -1,0 +1,1 @@
+This is a document that details the step to configure the Eclipse for Cordova project.
